@@ -1,0 +1,51 @@
+{
+  "start_url": "./index.html",
+  "name": "ByeTrash App",
+  "short_name": "BT App",
+  "description": "Turn Your Trash Into Money",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#Dddddd",
+  "icons": [
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-72x72.png?raw=true",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-96x96.png?raw=true",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-128x128.png?raw=true",
+      "sizes": "128x128",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-144x144.png?raw=true",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-152x152.png?raw=true",
+      "sizes": "152x152",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-192x192.png?raw=true",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-384x384.png?raw=true",
+      "sizes": "384x384",
+      "purpose": "any"
+    },
+    {
+      "src": "https://github.com/Ardanu001/ByeTrash/blob/main/src/public/icons/icons-512x512.png?raw=true",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
